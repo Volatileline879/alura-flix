@@ -28,19 +28,19 @@ var listaImagensFilmes = [
 
 var listaLinksFilmes = [
 	//Yesterday
-	"https://google.com",
+	"https://www.primevideo.com/detail/Yesterday/0U8HSIAZ9JFLSWCRI3JF97P2UT?_encoding=UTF8&language=pt_BR",
 	//A Chegada
-	"https://google.com",
+	"https://globoplay.globo.com/assine/?titleId=JzN9CPpvDN&utm_source=adorocinema&utm_medium=cpc&utm_campaign=1-serie-series&utm_term=assista-agora-cta-&utm_content=botao&dclid=CjgKEAjw4JWZBhCJnu7Rx-OylR8SJADiN0Jyf0bcP7kDKXgBsfwKXsxoft0b9sxBa4CD2ThR56XeJ_D_BwE",
 	//Escola de Rock
-	"https://google.com",
+	"https://play.hbomax.com/page/urn:hbo:page:GXnjwrQ52h4CgwwEAAAd9:type:feature?source=googleHBOMAX&action=open",
 	//Interestelar
-	"https://google.com",
+	"https://play.hbomax.com/page/urn:hbo:page:GYGP7pwQv_ojDXAEAAAFc:type:feature?source=googleHBOMAX&action=open",
 	//Star Wars 1
-	"https://google.com",
+	"https://www.disneyplus.com/pt-br/movies/star-wars-a-ameaca-fantasma-episodio-i/2ezYynkgW1AH",
 	//Harry Potter 1
-	"https://google.com",
+	"https://play.hbomax.com/page/urn:hbo:page:GYjt1ywlfs3jDZAEAAAAM:type:feature?source=googleHBOMAX&action=open",
 	//Senhor dos Aneis
-	"https://google.com"
+	"https://www.primevideo.com/detail/amzn1.dv.gti.f856462e-f3f0-47d6-99a7-8e7900ffb935?ref_=dvm_pds_tit_br_dc_s_g_mkw_sdXAajrGT-dc_pcrid_618796846552&mrntrk=slid__pgrid_139847815197_pgeo_1001733_x__ptid_kwd-300625556060&gclid=CjwKCAjw4JWZBhApEiwAtJUN0Hl5QXTKUDNu_-ZkkImmL28gAdA96ySk1QjMlzMRPtqo_Boe7ORUlhoClZ4QAvD_BwE"
 ];
 //End of fake data base
 
